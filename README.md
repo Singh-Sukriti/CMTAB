@@ -1,2 +1,2 @@
 # CMTAB
-Learning Heterogeneous Coalition Formation using Concurrent Multi-Task Bandits under Resource Constraints
+Concurrent Constrained Optimization of Unknown Rewards for Multi-Robot Task Allocation
